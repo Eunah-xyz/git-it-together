@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+datas/.ipynb_checkpoints/
+datas/DOB_Complaints_Received_20231117.csv
+venv/
+*.mp4
